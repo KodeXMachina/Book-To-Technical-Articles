@@ -1,0 +1,4 @@
+interface:
+  display_name: "Book to Technical Articles"
+  short_description: "Convert books into traceable article systems"
+  default_prompt: "Use $book-to-technical-articles to convert this technical book into technical articles in the requested or inferred language, with source parsing, reference patches, coverage audit, and reader Q&A feedback."
